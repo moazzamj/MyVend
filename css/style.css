@@ -1,0 +1,187 @@
+body {
+margin: 0;
+text-align: center;
+color: #FFC93C;
+font-family: 'IBM Plex Sans', sans-serif;
+
+}
+
+.pic {
+position: relative;
+border-radius: 20%;
+height: 19rem;
+width: 45rem;
+margin-left: 1.5rem;
+}
+
+h2 {
+font-weight: normal;
+}
+.profile {
+
+}
+
+.status {
+text-align: left;
+line-height: 2rem;
+font-size: 1.5rem;
+color: black;
+margin-bottom: -5rem;
+}
+hr {
+border-top: 0.5rem dotted gray;
+width: 30%;
+border-left: none;
+border-right: none;
+border-bottom: none;
+margin: 10rem auto 03rem auto;
+}
+
+.footer-link {
+color: #FFC93C;
+margin: 1rem;
+text-decoration: none;
+}
+
+.footer-link:hover {
+color: #EAF6F6;
+}
+
+.top-id {
+position: relative;
+color: #FFC93C;
+font-family: 'IBM Plex Sans', sans-serif;
+text-align: left;
+margin: 10px auto auto 60px;
+}
+.vm-emoji {
+position: absolute;
+width: 10rem;
+height: 7rem;
+top: -1.5rem;
+}
+.top {
+height: 37rem;
+padding: auto auto auto auto;
+color: #f3f3f3;
+
+}
+.call-icon {
+height: 11%;
+width: 11%;
+margin-left: -6.8rem;
+margin-bottom: -0.2rem;
+}
+.vm-head {
+height: 37rem;
+width: 80.4rem;
+
+}
+
+.menu {
+position: absolute;
+margin-top: -36.6rem;
+margin-left: 40rem;
+
+}
+.navi {
+color: black;
+text-decoration: none;
+padding: 1rem;
+
+}
+.navi:hover {
+color: #11999e;
+}
+
+.locations {
+margin: 2rem;
+margin: 2rem auto auto auto;
+width: 45rem;
+background-color: red;
+height: 350px;
+position: relative;
+display:block;
+background-color: #FFED00;
+border-radius: 2rem;
+color: #0F6292;
+font-family: 'IBM Plex Sans', sans-serif;
+font-size: 1.2rem;
+
+}
+.text {
+margin: 4rem auto auto auto;
+}
+.icon {
+margin: auto 7rem 1rem 9rem;
+
+}
+.imgss {
+height: 19rem;
+width: 43rem;
+float: right;
+border-radius: 20%;
+margin-top: -2rem;
+}
+.skill-row {
+color: black;
+text-align:left;
+line-height: 2rem;
+font-size: 1.5rem;
+margin: 4rem 2rem -1rem 3rem;
+
+}
+.skill-head {
+color: #FFC93C;
+text-align: center;
+margin: 2rem;
+
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #FFC93C);
+  background-image: -moz-linear-gradient(top, #3498db, #FFC93C);
+  background-image: -ms-linear-gradient(top, #3498db, #FFC93C);
+  background-image: -o-linear-gradient(top, #3498db, #FFC93C);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+p {
+color: black;
+padding: 1rem;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #d9cb34);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #d9cb34);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #d9cb34);
+  background-image: -o-linear-gradient(top, #3cb0fd, #d9cb34);
+  background-image: linear-gradient(to bottom, #3cb0fd, #d9cb34);
+  text-decoration: none;
+}
+
+.contact-me {
+padding: 3rem;
+}
+
+.bottom-container {
+background-color: #11999e;
+
+padding: 2rem;
+
+}
+
+.white {
+color: #EAF6F6;
+font-size: 0.8rem;
+}
+
